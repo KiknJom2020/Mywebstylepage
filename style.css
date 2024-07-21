@@ -10,4 +10,12 @@ body {
   border: 2px solid black;
   display: flex;
   flex: row wrap;
+  justify-content:center;
 }
+
+.box{
+  width: 100px;
+  height: 50px;
+  border: 1px solid black;
+}
+
